@@ -20,9 +20,9 @@ Christian Cuestas - [@ChrisCuestas](https://github.com/ChrisCuestas)
 | **Controlador**          | IRC5 Compact / IRC5 Gabinete simple, gabinete doble, montaje en panel       | DX100                                                                      |
 | **Aplicaciones**         | Soldadura por arco, mecanizado, manipulación de piezas, montaje de piezas   | Soldadura por arco, manipulación de materiales, montaje de piezas, paletizado |
 
-El Motoman MH6 está diseñado para operar con dos posiciones de referencia conocidas como "Home Position" y "Second Home Position". A continuación, se describen estas configuraciones:
-
 ## __2. Comparación de home1 y home2 en Motoman MH6__
+
+El Motoman MH6 está diseñado para operar con dos posiciones de referencia conocidas como "Home Position" y "Second Home Position". A continuación, se describen estas configuraciones:
 
 ### 2.1. Home Position (Posición de Origen):
 
@@ -81,7 +81,7 @@ Con una interfaz gráfica fácil de usar, el software permite a los usuarios con
 
 ## __7. Código de trayectoria polar__
 
-## __8. Videos
+## __8. Videos__
 
 - Video de simulación:
 
