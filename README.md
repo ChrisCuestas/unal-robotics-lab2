@@ -84,7 +84,9 @@ Con una interfaz gráfica fácil de usar, el software permite a los usuarios con
 ## __8. Videos__
 
 - Video de simulación:
+https://youtu.be/Sm6kdJNh65E
 
+  [![Video en YouTube](https://img.youtube.com/vi/Sm6kdJNh65E/0.jpg)](https://youtu.be/Sm6kdJNh65E)
 - Video de implementación en manipulador:
   https://youtu.be/35M9gzuCKwA
   [![Video en YouTube](https://img.youtube.com/vi/35M9gzuCKwA/0.jpg)](https://youtu.be/35M9gzuCKwA)
