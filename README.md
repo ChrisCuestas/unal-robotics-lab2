@@ -45,6 +45,59 @@ Su ventaja es la flexibilidad, ya que se puede configurar para mejorar la eficie
 
 ## __3. Procedimiento detallado para realizar movimientos manuales__
 
+### **Procedimiento para Mover Manualmente el Manipulador Motoman**
+
+#### **1. Configuración para el Movimiento Manual**
+Para mover manualmente el robot Yaskawa (Motoman), sigue estos pasos:
+
+1. **Cambiar al Modo Enseñanza (Teach Mode)**  
+   - Gira el selector de llave a **Modo Enseñanza** (icono de mano).
+
+2. **Activar el Servo**  
+   - Presiona **Servo On** hasta que se encienda la luz verde.
+
+3. **Presionar el Interruptor de Seguridad (Deadman Switch)**  
+   - Mantén presionado el **Deadman Switch** en el teach pendant. Esto libera los frenos y permite el movimiento.
+
+---
+
+#### **2. Movimiento del Robot por Ejes (Joints)**
+- Una vez activado el **Deadman Switch**:
+  - Usa las teclas **S+ y S-** para mover cada eje individualmente.
+  - Los **movimientos por ejes** corresponden a:
+    - **S** (Eje 1)
+    - **L** (Eje 2)
+    - **U** (Eje 3)
+    - **R** (Eje 4)
+    - **B** (Eje 5)
+    - **T** (Eje 6)
+
+---
+
+#### **3. Cambio al Movimiento Cartesiano**
+- Para cambiar al modo cartesiano:
+  - Presiona el botón **COORD** (Sistema de Coordenadas) en la parte superior del teach pendant.
+  - Esto alternará entre los siguientes sistemas de coordenadas:
+    - **Coordenadas Mundo (World)**
+    - **Coordenadas Herramienta (Tool)**
+    - **Coordenadas Cartesianas**
+    - **Modo Joints (Ejes Articulares)**
+
+---
+
+#### **4. Movimiento de Traslación y Rotación en Modo Cartesiano**
+Una vez en **Modo Cartesiano**, usa las siguientes teclas:
+
+- **Movimientos de Traslación (X, Y, Z)**
+  - **X+ / X-** → Mueve en el eje X.
+  - **Y+ / Y-** → Mueve en el eje Y.
+  - **Z+ / Z-** → Mueve en el eje Z.
+
+- **Movimientos de Rotación (Alrededor de X, Y, Z)**
+  - **Rx+ / Rx-** → Rota alrededor del eje X.
+  - **Ry+ / Ry-** → Rota alrededor del eje Y.
+  - **Rz+ / Rz-** → Rota alrededor del eje Z.
+  - 
 ## __4. Niveles de velocidad para movimientos manuales__
 
 ## __5. Principales funcionalidades de RoboDK__
